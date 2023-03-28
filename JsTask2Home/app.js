@@ -1,4 +1,4 @@
-var age = prompt("Yasinizi daxl edin:", "");
+var age = prompt("Yasinizi daxl edin:");
 if (age < 18) {
 
     alert("Yasiniz 18den kicikdi")
